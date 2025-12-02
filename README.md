@@ -1,4 +1,4 @@
-# Olá! Eu sou a Brenda Emanuelly D. Brunel
+# Olá! Eu sou a Brenda Brunel
 
 Sou estudante de Ciência da Computação e estou me preparando para atuar como desenvolvedora front-end júnior.  
 Tenho paixão por desenvolvimento web, design e análise de dados  e estou sempre aprendendo e evoluindo.  
@@ -15,10 +15,10 @@ Tenho paixão por desenvolvimento web, design e análise de dados  e estou sempr
 Aproveite para conhecer meus trabalhos e contribuições:
 
 | Projeto / Papel | Descrição |
-|----------------|------------|
-| **:contentReference[oaicite:0]{index=0}** | Projeto em Java para gerenciar frotas — controle e organização de dados. |
-| **:contentReference[oaicite:1]{index=1}** | Meu portfólio pessoal desenvolvido em HTML, CSS e JavaScript — demonstração de habilidades em front-end. |
-| **:contentReference[oaicite:2]{index=2}** | Projeto em andamento: dashboard de análise de dados, visualização de métricas e KPIs no Power BI. |
+|-----------------|-----------|
+| Sistema de Gerenciamento de Frota (Java) | Projeto em Java para gerenciar frotas — controle e organização de dados. |
+| Portfólio Pessoal (HTML/CSS/JS) | Meu portfólio pessoal desenvolvido em HTML, CSS e JavaScript — demonstração de habilidades em front-end. |
+| Dashboard Power BI | Projeto em andamento: dashboard de análise de dados, visualização de métricas e KPIs no Power BI. |
 
 # Formação e estudos  
 - Graduação em Ciência da Computação em andamento  
