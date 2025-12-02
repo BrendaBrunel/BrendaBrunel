@@ -14,10 +14,11 @@ Tenho paixão por desenvolvimento web, design e análise de dados  e estou sempr
 # Projetos e experiências  
 Aproveite para conhecer meus trabalhos e contribuições:
 
-
-Projeto em Java para gerenciar frotas — controle e organização de dados.
-Meu portfólio pessoal desenvolvido em HTML, CSS e JavaScript — demonstração de habilidades em front-end. 
-Projeto em andamento: dashboard de análise de dados, visualização de métricas e KPIs no Power BI. 
+| Projeto / Papel | Descrição |
+|----------------|------------|
+| **:contentReference[oaicite:0]{index=0}** | Projeto em Java para gerenciar frotas — controle e organização de dados. |
+| **:contentReference[oaicite:1]{index=1}** | Meu portfólio pessoal desenvolvido em HTML, CSS e JavaScript — demonstração de habilidades em front-end. |
+| **:contentReference[oaicite:2]{index=2}** | Projeto em andamento: dashboard de análise de dados, visualização de métricas e KPIs no Power BI. |
 
 # Formação e estudos  
 - Graduação em Ciência da Computação em andamento  
