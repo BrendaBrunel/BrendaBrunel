@@ -30,5 +30,5 @@ Estou em busca de uma vaga como desenvolvedora front-end júnior, onde possa apl
 # Contato  
 Se quiser conversar, conhecer mais projetos ou possíveis oportunidades:  
 [Meu GitHub](https://github.com/BrendaBrunel)  
-[LinkedIn] (www.linkedin.com/in/brenda-brunel)]  
+[LinkedIn](www.linkedin.com/in/brenda-brunel) 
 
